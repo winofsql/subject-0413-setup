@@ -7,3 +7,6 @@
 
 - ## paiza の１年間クーポンを登録
   - 本日休みおよびリモートの学生は後日
+  - paiza のクーポンコードを講師が入力するために、教室PC はリモートアクセス可にしておく
+![image](https://user-images.githubusercontent.com/1501327/163093789-a9aef0bb-9ef3-4231-8a13-14e9b29ad84c.png)
+
