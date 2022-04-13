@@ -23,5 +23,14 @@
 
 
 - Google Chrome の設定
-  - 開発用ブックマーク( テンプレート / [subject-2022-software / bookmarks_2022_04_06.html](https://github.com/winofsql/subject-2022-software/tree/main/chrome) )
-  - セキュリティ設定( [subject-2022-software / chrome.reg](https://github.com/winofsql/subject-2022-software/tree/main/chrome) )
+  - 開発用ブックマーク( テンプレート / bookmarks_2022_04_06.html )
+  - セキュリティ設定( chrome.reg )
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"ShowHomeButton"=dword:00000001
+"PasswordManagerEnabled"=dword:00000000
+"AutofillCreditCardEnabled"=dword:00000000
+"AutofillAddressEnabled"=dword:00000000
+```
