@@ -21,3 +21,7 @@
   - 最悪隣の PC の Cドライブからコピー
   - 解答は 7zip で行う事( 他のソフトは使わないように )
 
+
+- Google Chrome の設定
+  - 開発用ブックマーク( テンプレート / [subject-2022-software / bookmarks_2022_04_06.html](https://github.com/winofsql/subject-2022-software/tree/main/chrome) )
+  - セキュリティ設定( [subject-2022-software / chrome.reg](https://github.com/winofsql/subject-2022-software/tree/main/chrome) )
