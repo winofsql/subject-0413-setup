@@ -2,7 +2,7 @@
 
 - ## [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=ja) のインストール
   - R101・R202 教室用アカウントで、共有ドライブを一つアサイン
-  - R101・R202 グループをその 共有ドライブに追加して、その共有ドライブを教室ペースのファイル置き場とする
+  - R101・R202 グループをその 共有ドライブに追加して、その共有ドライブを教室ベースのファイル置き場とする
   - Google Drive for Desktop は常に教室用アカウントでログインしておく
 
 - ## [paiza](https://paiza.jp/works/) の１年間クーポンを登録
