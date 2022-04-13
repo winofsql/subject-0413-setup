@@ -14,7 +14,7 @@
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
   - 既に保存しておいた C:\Users\ユーザ名\lightbox\.vscode の内容を全てコピーして、VScode を起動して拡張の確認
 
-![image](https://user-images.githubusercontent.com/1501327/163191652-7ee6ce03-3323-43d1-99dc-42662fd3b4a5.png)
+![image](https://user-images.githubusercontent.com/1501327/163191863-be277ebe-134b-4bbe-914c-39558b1ae86f.png)
 
 - ## xampp.zip( インストール直後 ) c:\xampp に置くことを前提
   - Google ドライブ等より取得
