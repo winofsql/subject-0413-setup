@@ -12,6 +12,7 @@
 
 - ## Visual Studio Code のインストール
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
+  - 既に保存しておいた C:\Users\ユーザ名\lightbox\.vscode の内容を全てコピーして、VScode を起動して拡張の確認
 
 ![image](https://user-images.githubusercontent.com/1501327/163104002-a7195789-bcab-44a6-b9cb-a75b3227c95d.png)
 
@@ -19,3 +20,4 @@
   - Google ドライブ等より取得
   - 最悪隣の PC の Cドライブからコピー
   - 解答は 7zip で行う事( 他のソフトは使わないように )
+
