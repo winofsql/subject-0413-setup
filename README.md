@@ -11,4 +11,4 @@
 ![image](https://user-images.githubusercontent.com/1501327/163093789-a9aef0bb-9ef3-4231-8a13-14e9b29ad84c.png)
 
 - ## Visual Studio Code のインストール
-  - folder.bat を実行して c:\app と c:\app2 を作成しておく
+  - folder.bat を実行して c:\app と **c:\app2** を作成しておく
