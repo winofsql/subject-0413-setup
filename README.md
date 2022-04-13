@@ -14,3 +14,8 @@
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
 
 ![image](https://user-images.githubusercontent.com/1501327/163104002-a7195789-bcab-44a6-b9cb-a75b3227c95d.png)
+
+- ## xampp.zip( インストール直後 ) c:\xampp に置くことを前提
+  - Google ドライブ等より取得
+  - 最悪隣の PC の Cドライブからコピー
+  - 解答は 7zip で行う事( 他のソフトは使わないように )
