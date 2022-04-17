@@ -33,7 +33,7 @@ mkdir c:\TMP
   - 解答は 7zip で行う事( 他のソフトは使わないように )
 
 
-- Google Chrome の設定
+- ## Google Chrome の設定
   - 開発用ブックマーク( テンプレート / bookmarks_2022_04_06.html )
   - セキュリティ設定( chrome.reg )
 ```reg
