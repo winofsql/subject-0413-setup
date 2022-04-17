@@ -28,7 +28,7 @@ mkdir c:\TMP
 
 
 - ## xampp.zip( インストール直後 ) c:\xampp に置くことを前提
-  - Google ドライブ等より取得
+  - Google ドライブ等より取得( "G:\共有ドライブ\SE-WORK-DOWNLOAD\software\xampp.zip" )
   - 最悪隣の PC の Cドライブからコピー
   - 解答は 7zip で行う事( 他のソフトは使わないように )
 
