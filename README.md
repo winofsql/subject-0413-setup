@@ -46,6 +46,7 @@ Windows Registry Editor Version 5.00
 "AutofillAddressEnabled"=dword:00000000
 ```
 
+### 上記レジストリを開く処理
 ```bat
 wscript open_reg.vbs HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
 ```
