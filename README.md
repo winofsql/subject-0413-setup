@@ -10,7 +10,7 @@
 - ## [paiza](https://paiza.jp/works/) の１年間クーポンを登録
   - 本日休みおよびリモートの学生は後日
   - paiza のクーポンコードを講師が入力するために、教室PC はリモートアクセス可にしておく
-![image](https://user-images.githubusercontent.com/1501327/163093789-a9aef0bb-9ef3-4231-8a13-14e9b29ad84c.png)
+![image](https://user-images.githubusercontent.com/1501327/163701572-1be97bcf-a8fd-4175-9f69-1d152ba2cc56.png)
 
 - ## Visual Studio Code のインストール
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
