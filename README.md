@@ -45,3 +45,7 @@ Windows Registry Editor Version 5.00
 "AutofillCreditCardEnabled"=dword:00000000
 "AutofillAddressEnabled"=dword:00000000
 ```
+
+```bat
+wscript open_reg.vbs HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
+```
