@@ -2,15 +2,14 @@
 
 - ## [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=ja) のインストール
   - R101・R202 教室用アカウントで、共有ドライブを二つアサイン
-  - ![image](https://user-images.githubusercontent.com/1501327/163701537-45e12313-1013-464a-80af-b83c3ba7dcde.png)
-
+  ![image](https://user-images.githubusercontent.com/1501327/163701537-45e12313-1013-464a-80af-b83c3ba7dcde.png)
   - R101・R202 グループをその 共有ドライブに追加して、その共有ドライブを教室ベースのファイル置き場とする
   - Google Drive for Desktop は常に教室用アカウントでログインしておく
 
 - ## [paiza](https://paiza.jp/works/) の１年間クーポンを登録
   - 本日休みおよびリモートの学生は後日
   - paiza のクーポンコードを講師が入力するために、教室PC はリモートアクセス可にしておく
-![image](https://user-images.githubusercontent.com/1501327/163701572-1be97bcf-a8fd-4175-9f69-1d152ba2cc56.png)
+  ![image](https://user-images.githubusercontent.com/1501327/163701572-1be97bcf-a8fd-4175-9f69-1d152ba2cc56.png)
 
 - ## Visual Studio Code のインストール
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
