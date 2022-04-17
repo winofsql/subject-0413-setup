@@ -1,4 +1,4 @@
-# subject-0413-setup
+# subject-220413-setup
 
 - ## [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=ja) のインストール
   - R101・R202 教室用アカウントで、共有ドライブを二つアサイン\
