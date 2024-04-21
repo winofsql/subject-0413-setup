@@ -7,7 +7,7 @@
   - Google Drive for Desktop は常に教室用アカウントでログインしておく
 
 - ## 教室PC はリモートアクセス可にしておく
-  ![image](https://user-images.githubusercontent.com/1501327/163701572-1be97bcf-a8fd-4175-9f69-1d152ba2cc56.png)
+  ![image](https://github.com/winofsql/subject-220413-setup/assets/1501327/3621496f-9800-4ccb-bebc-b14355e66631)
 
 - ## Visual Studio Code のインストール
   - folder.bat を実行して c:\app と **c:\app2** を作成しておく
