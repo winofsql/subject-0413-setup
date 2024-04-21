@@ -10,41 +10,11 @@
   ![image](https://github.com/winofsql/subject-220413-setup/assets/1501327/3621496f-9800-4ccb-bebc-b14355e66631)
 
 - ## Visual Studio Code のインストール
-  - folder.bat を実行して c:\app と **c:\app2** を作成しておく
-  - "G:\共有ドライブ\SE-WORK-DOWNLOAD\microsoft\.vscode.zip" をダウンロード
-  - 解凍して C:\Users\ユーザ名\\.vscode に内容を全てコピーして、VScode を起動して拡張の確認
-  ![image](https://user-images.githubusercontent.com/1501327/163191863-be277ebe-134b-4bbe-914c-39558b1ae86f.png)
-```bat
-REM folder.bat
-mkdir c:\app
-mkdir C:\app\web22
-mkdir c:\app2
-mkdir c:\user
-mkdir c:\TEMP
-mkdir c:\TMP
-```
+  - c:\app と **c:\app2** を作成しておく
+  - c:\app2 の中に "C:\app2\Microsoft VS Code\Code.exe" となるようにインストール
+  - 拡張は https://github.com/winofsql/subject の code-install-ext.bat を実行
 
-
-- ## xampp.zip( インストール直後 ) c:\xampp に置くことを前提
-  - Google ドライブ等より取得( "G:\共有ドライブ\SE-WORK-DOWNLOAD\software\xampp.zip" )
-  - 最悪隣の PC の Cドライブからコピー
-  - 解答は 7zip で行う事( 他のソフトは使わないように )
-
-
-- ## Google Chrome の設定
-  - 開発用ブックマーク( テンプレート / bookmarks_2022_04_06.html )
-  - セキュリティ設定( chrome.reg )
-```reg
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
-"ShowHomeButton"=dword:00000001
-"PasswordManagerEnabled"=dword:00000000
-"AutofillCreditCardEnabled"=dword:00000000
-"AutofillAddressEnabled"=dword:00000000
-```
-
-### 上記レジストリを開く処理
-```bat
-wscript open_reg.vbs HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
-```
+- ### Chrome のポリシー設定レジストリを開く処理
+  ```bat
+  wscript open_reg.vbs HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
+  ```
